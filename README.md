@@ -1,4 +1,4 @@
-# tripwase2
+# tripwase
 
 kalkulatornya traveler
 
