@@ -1,0 +1,28 @@
+name: tripwise
+description: Aplikasi Budget Traveling TripWise
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.7.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  pie_chart: ^5.1.0
+  intl: ^0.20.2
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/airplane.png
+    - assets/images/palm_tree.png
+    - assets/images/logo.png
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.9.3
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/logo.png"
